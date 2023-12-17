@@ -63,6 +63,20 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+#### LINKAGE
+![6 1 Link_page-0001](https://github.com/Prajin19/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979377/da531ced-77dd-4f92-afdb-ec8b6755846d)
+
+#### BASE PLATE  
+![6 1 Plate_page-0001](https://github.com/Prajin19/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979377/45553662-f6b8-4d01-8db2-914405125c2d)
+
+#### GEAR LINKAGE
+![6 1 Gear_page-0001](https://github.com/Prajin19/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979377/4358ae9a-fc8f-4801-8741-05148c71fb00)
+
+#### FINGER
+![6 1 Finger_page-0001](https://github.com/Prajin19/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979377/dd8ae727-f611-42bb-8f3e-fe2f9e528011)
+
+#### ASSEMBLED VIEW
+![Ex 6 1_page-0001](https://github.com/Prajin19/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144979377/1c001834-9c25-43d3-9ce5-80473ae9e451)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
